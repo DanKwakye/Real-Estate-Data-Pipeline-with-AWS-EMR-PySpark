@@ -20,7 +20,7 @@ Collected property listing data from Redfin.com.
 
 The dataset contained ~5.9M rows (5,978,674 records).
 
-Loaded raw data into an Amazon S3 bucket (s3://your-raw-bucket-name).
+Loaded raw data into an Amazon S3 bucket (s3://emr-transform-data-dak).
 
 Data Transformation
 
